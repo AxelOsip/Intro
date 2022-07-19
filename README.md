@@ -1,5 +1,5 @@
 - Aleksey, @CyKlop3345.
-- For now: Studing in BSUIR (freshman), Belarus.
+- For now: Studing in BSUIR, Belarus.
 - Learning: C, Python, Git. Already have some skills.
 - Interested in the backend.
 
