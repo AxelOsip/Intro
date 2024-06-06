@@ -1,6 +1,12 @@
-- Aleksey, @CyKlop3345.
-- For now: Studing in BSUIR, Belarus.
-- Learning: C, Python, Git. Already have some skills.
-- Interested in the backend.
-
-I will post my little projects (I hope) soon.
+- Aleksey, @AxelOsip
+- For now: Studing in BSUIR, Belarus
+- Skills:
+-- с/с++, python, matlab, 8086 assembler;
+-- oop basics;
+-- vhdl/system verilog;
+-- git system;
+-- 3d constucting
+- Knowledges:
+-- digital signal processing;
+-- computer graphic basics;
+-- neural network
