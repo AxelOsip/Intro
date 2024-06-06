@@ -1,12 +1,12 @@
 - Aleksey, @AxelOsip
 - For now: Studing in BSUIR, Belarus
 - Skills:
--- с/с++, python, matlab, 8086 assembler;
--- oop basics;
--- vhdl/system verilog;
--- git system;
--- 3d constucting
+  - с/с++, python, matlab, 8086 assembler;
+  - oop basics;
+  - vhdl/system verilog;
+  - git system;
+  - 3d constucting
 - Knowledges:
--- digital signal processing;
--- computer graphic basics;
--- neural network
+  - digital signal processing;
+  - computer graphic basics;
+  - neural network
